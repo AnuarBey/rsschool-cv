@@ -16,7 +16,9 @@ Discourd: AnuarBey
 
     Faculty of Information Technology
 
-At the same time I am learning the basics of Front-end development at HTML academy* ** Also enrolled in RSS School **
+At the same time I am learning the basics of Front-end development at HTML academy
+
+Also enrolled in RSS School
 
 ### Language
 
