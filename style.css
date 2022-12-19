@@ -1,0 +1,9 @@
+body {
+  font-family: "Roboto";
+  src: url("assets/Roboto/Roboto-Regular.ttf");
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
