@@ -6,7 +6,7 @@
 
 Tel: +7 705 305 79 00/+7 7470537782
 
-E-mail: coolboy949494gmail.com
+E-mail: coolboy949494@gmail.com
 
 Discourd: AnuarBey
 
