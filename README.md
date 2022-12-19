@@ -1,1 +1,4 @@
-https://github.com/AnuarBey.github.io/rsschool-cv/cv
+rsschool-cv
+
+
+https://github.com/AnuarBey.github.io/rsschool-cv/
